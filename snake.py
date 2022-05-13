@@ -1,11 +1,9 @@
-"""Snake, classic arcade game.
+"""
+Juego: Pacman
+Programador 1: Misael Chavez Ramos
+Programador 2: Rodrigo García Estrada
 
-Exercises
-
-1. How do you make the snake faster or slower?
-2. How can you make the snake go around the edges?
-3. How would you move the food?
-4. Change the snake to respond to mouse clicks.
+Fecha: 11 / mayo / 2022
 """
 
 from random import randrange
